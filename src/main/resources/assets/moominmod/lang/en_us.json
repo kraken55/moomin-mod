@@ -1,0 +1,13 @@
+{
+  "itemGroup.moominmod": "Example Mod Tab",
+  "block.moominmod.example_block": "Example Block",
+  "item.moominmod.example_item": "Example Item",
+
+  "moominmod.configuration.title": "Moomin Mod Configs",
+  "moominmod.configuration.section.moominmod.common.toml": "Moomin Mod Configs",
+  "moominmod.configuration.section.moominmod.common.toml.title": "Moomin Mod Configs",
+  "moominmod.configuration.items": "Item List",
+  "moominmod.configuration.logDirtBlock": "Log Dirt Block",
+  "moominmod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "moominmod.configuration.magicNumber": "Magic Number"
+}
