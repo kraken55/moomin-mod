@@ -10,9 +10,8 @@ Requirements for upcoming versions are tracked in this document for simplicity. 
 - Generic Moomin NPC
   - Breedable using Jam
   - Pettable
-
 - Jam (food item)
-  - Craftable using berries`
+  - Craftable using berries
 
 ## Could have
 
@@ -32,3 +31,11 @@ Requirements for upcoming versions are tracked in this document for simplicity. 
 - Knife Moomin
 - Boat
 - Ancestor
+- Moomin village
+- Moomintroll plushie
+- Snufkin's instruments
+- Snufkin's fishing rod
+- Snufkin's hat
+- Snufkin's tent
+- Snufkin emerald X-Ray
+- Cloud (+ Cursed hat)
